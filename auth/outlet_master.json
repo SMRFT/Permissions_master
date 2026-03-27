@@ -1,0 +1,22 @@
+{
+    "OLET001": [
+        "HMS-R-01-RW",
+        "HMS-R-V1-RW",
+        "HMS-R-V01-RW"
+    ],
+    "OLET002": [
+        "HMS-R-02-RW",
+        "HMS-R-V2-RW",
+        "HMS-R-V02-RW"
+    ],
+    "OLET003": [
+    ],
+    "OLET004": [
+    ],
+    "OLET005": [
+        "HMS-R-VV-RW",
+        "HMS-R-VI-RW",
+        "HMS-R-VIN-RW",
+        "HMS-R-VIMR-RW"
+    ]
+}
